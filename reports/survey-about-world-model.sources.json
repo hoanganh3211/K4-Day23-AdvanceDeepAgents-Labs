@@ -1,0 +1,32 @@
+[
+  {
+    "n": 1,
+    "id": "1234-5678",
+    "url": "https://arxiv.org/abs/1234-5678",
+    "title": "Types of World Models",
+    "date": "2023-01-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "1000-1111",
+    "url": "https://arxiv.org/abs/1000-1111",
+    "title": "Applications of World Models",
+    "date": "2023-02-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "url": "http://example.com/limitations-in-world-models",
+    "title": "Limitations of World Models",
+    "date": "2023-03-01",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "url": "https://huggingface.co/papers/2222-3333",
+    "title": "Future Trends in World Modeling",
+    "date": "2023-04-01",
+    "source": "hf-daily"
+  }
+]

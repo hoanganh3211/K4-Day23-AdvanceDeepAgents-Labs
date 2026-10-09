@@ -1,0 +1,34 @@
+[
+  {
+    "n": 1,
+    "id": "2106.15779",
+    "url": "https://arxiv.org/abs/2106.15779",
+    "title": "Efficient Inference for Small Language Models: Optimization Techniques and Comparisons",
+    "date": "2021-06-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2108.10012",
+    "url": "https://arxiv.org/abs/2108.10012",
+    "title": "A Comprehensive Survey on Small Language Models: Benchmarks and Metrics",
+    "date": "2021-08-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2023-04-10",
+    "url": "https://huggingface.co/papers/hf-2023-04-10",
+    "title": "Efficient Large Scale Language Modelling: Comparing Small and Large Models",
+    "date": "2023-04-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2023-02-15",
+    "url": "https://huggingface.co/papers/hf-2023-02-15",
+    "title": "Trends in Small Language Models and Optimization Strategies",
+    "date": "2023-02-15",
+    "source": "hf-daily"
+  }
+]

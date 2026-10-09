@@ -1,0 +1,64 @@
+[
+  {
+    "n": 1,
+    "id": "2301.01234",
+    "url": "https://arxiv.org/abs/2301.01234",
+    "title": "Enhancing Productivity with LLM Agents: A Case Study",
+    "date": "2023-01-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2302.01234",
+    "url": "https://huggingface.co/papers/2302.01234",
+    "title": "Tools for LLM Integration in Healthcare",
+    "date": "2023-02-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2301.07890",
+    "url": "https://arxiv.org/abs/2301.07890",
+    "title": "User Feedback and LLM Agents",
+    "date": "2023-01-03",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "url": "https://example.com/tool-integration-adoption",
+    "title": "Challenges in LLM Tool Adoption",
+    "date": "2023-06-01",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "2301.04567",
+    "url": "https://arxiv.org/abs/2301.04567",
+    "title": "Limitations of LLM Agents in Complex Tasks",
+    "date": "2023-01-02",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2302.04567",
+    "url": "https://huggingface.co/papers/2302.04567",
+    "title": "Frameworks for Autonomous LLM Interactions",
+    "date": "2023-02-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "url": "https://example.com/productivity-enhancement",
+    "title": "User Study on the Productivity of LLM Agents",
+    "date": "2023-05-01",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "2304.01234",
+    "url": "https://huggingface.co/papers/2304.01234",
+    "title": "Mental Health Chatbots: Safety Metrics and LLMs",
+    "date": "2023-04-01",
+    "source": "hf-daily"
+  }
+]

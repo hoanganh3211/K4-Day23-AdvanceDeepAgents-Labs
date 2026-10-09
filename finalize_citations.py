@@ -83,6 +83,40 @@ def finalize(report_text, sources):
     return report, new_sources, problems
 
 
+def _load_sources_safe(raw_text):
+    text = raw_text.strip()
+    if text.startswith("```"):
+        text = re.sub(r"^```[a-zA-Z]*\n?", "", text)
+        text = re.sub(r"\n?```$", "", text).strip()
+    try:
+        data = json.loads(text)
+        if isinstance(data, list):
+            return data
+    except Exception:
+        pass
+    # Handle multiple concatenated JSON arrays or objects (e.g. [...] [...])
+    decoder = json.JSONDecoder()
+    pos = 0
+    items = []
+    while pos < len(text):
+        remaining = text[pos:].lstrip()
+        pos = len(text) - len(remaining)
+        if pos >= len(text):
+            break
+        try:
+            val, end = decoder.raw_decode(text, pos)
+            if isinstance(val, list):
+                items.extend(val)
+            elif isinstance(val, dict):
+                items.append(val)
+            pos = end
+        except Exception:
+            pos += 1
+    if items:
+        return items
+    return json.loads(text)
+
+
 def main(argv):
     report_path = argv[1] if len(argv) > 1 else REPORT
     sources_path = argv[2] if len(argv) > 2 else SOURCES
@@ -90,7 +124,8 @@ def main(argv):
         with open(report_path, encoding="utf-8") as f:
             report = f.read()
         with open(sources_path, encoding="utf-8") as f:
-            sources = json.load(f)
+            raw_sources = f.read()
+        sources = _load_sources_safe(raw_sources)
     except (OSError, ValueError) as exc:
         print(f"cannot read inputs: {exc}")
         return 1

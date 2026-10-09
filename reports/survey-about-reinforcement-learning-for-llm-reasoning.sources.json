@@ -1,0 +1,162 @@
+[
+  {
+    "n": 1,
+    "id": "2605.12969",
+    "url": "https://arxiv.org/abs/2605.12969",
+    "title": "Revisiting Reinforcement Learning with Verifiable Rewards from a Contrastive Perspective",
+    "date": "2026-05-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2402.05808",
+    "url": "https://huggingface.co/papers/2402.05808",
+    "title": "Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning",
+    "date": "2024-02-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2509.21880",
+    "url": "https://arxiv.org/abs/2509.21880",
+    "title": "No Prompt Left Behind: Exploiting Zero-Variance Prompts in LLM Reinforcement Learning via Entropy-Guided Advantage Shaping",
+    "date": "2025-09-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2505.24630",
+    "url": "https://huggingface.co/papers/2505.24630",
+    "title": "The Hallucination Dilemma: Factuality-Aware Reinforcement Learning for Large Reasoning Models",
+    "date": "2025-05-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2510.10541v1",
+    "url": "https://arxiv.org/html/2510.10541v1",
+    "title": "Rethinking RL Evaluation: Can Benchmarks Truly Reveal Failures of RL Methods?",
+    "date": "2023-10-01",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "N/A",
+    "url": "https://www.evidentlyai.com/llm-guide/llm-benchmarks",
+    "title": "30 LLM evaluation benchmarks and how they work",
+    "date": "2023-10-01",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "2503.11197",
+    "url": "https://arxiv.org/abs/2503.11197",
+    "title": "Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering",
+    "date": "2025-03-14",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "n/a",
+    "url": "https://kili-technology.com/blog/llm-reasoning-guide",
+    "title": "Future Directions for LLM Reasoning with RL-Based Methods",
+    "date": "2025-01-01",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "2511.01618",
+    "url": "https://arxiv.org/abs/2511.01618",
+    "title": "Actial: Activate Spatial Reasoning Ability of Multimodal Large Language Models",
+    "date": "2025-11-03",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "2508.05613",
+    "url": "https://arxiv.org/abs/2508.05613",
+    "title": "Cooper: Co-Optimizing Policy and Reward Models in Reinforcement Learning for Large Language Models",
+    "date": "2025-08-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "2505.22338",
+    "url": "https://huggingface.co/papers/2505.22338",
+    "title": "Text2Grad: Reinforcement Learning from Natural Language Feedback",
+    "date": "2025-05-28",
+    "source": "hf-search"
+  },
+  {
+    "n": 12,
+    "id": "2501.11651",
+    "url": "https://huggingface.co/papers/2501.11651",
+    "title": "Advancing Language Model Reasoning through Reinforcement Learning and Inference Scaling",
+    "date": "2025-01-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 13,
+    "id": "2210.01241",
+    "url": "https://huggingface.co/papers/2210.01241",
+    "title": "Is Reinforcement Learning (Not) for Natural Language Processing: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization",
+    "date": "2022-10-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 14,
+    "id": "2412.01020v1",
+    "url": "https://arxiv.org/html/2412.01020v1",
+    "title": "AI Benchmarks and Datasets for LLM Evaluation",
+    "date": "2023-10-01",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "N/A",
+    "url": "https://github.com/leobeeson/llm_benchmarks",
+    "title": "GitHub - leobeeson/llm_benchmarks",
+    "date": "2023-10-01",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "n/a",
+    "url": "https://www.inferless.com/learn/a-deep-dive-into-reinforcement-learning",
+    "title": "Reinforcement Learning for LLMs: RLHF, DPO, and the Future of Aligned Generative AI",
+    "date": "2025-01-01",
+    "source": "web"
+  },
+  {
+    "n": 17,
+    "id": "2604.17312",
+    "url": "https://arxiv.org/html/2604.17312v1",
+    "title": "A Survey of Reinforcement Learning for Large Language Models under Data Scarcity: Challenges and Solutions",
+    "date": "2025-04-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 18,
+    "id": "2504.20834",
+    "url": "https://huggingface.co/papers/2504.20834",
+    "title": "Reinforcement Learning for LLM Reasoning Under Memory Constraints",
+    "date": "2025-04-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 19,
+    "id": "2505.17652",
+    "url": "https://huggingface.co/papers/2505.17652",
+    "title": "Rethinking the Sampling Criteria in Reinforcement Learning for LLM Reasoning",
+    "date": "2025-05-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 20,
+    "id": "2510.00819",
+    "url": "https://huggingface.co/papers/2510.00819",
+    "title": "Stabilizing Policy Gradients for Sample-Efficient Reinforcement Learning in LLM Reasoning",
+    "date": "2025-10-01",
+    "source": "hf-search"
+  }
+]
